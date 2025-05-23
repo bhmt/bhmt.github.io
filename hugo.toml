@@ -1,0 +1,24 @@
+baseURL = ''
+title = 'pismenost.online'
+theme = 'digitalgarden'
+
+[Params]
+  description = "Digitalan pismenost i sigurnost na internet"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+[[menu.main]]
+  name = 'Sadržaj'
+  params.header = true
+  weight = 1
+[[menu.main]]
+  name = 'Digitalna pismenost'
+  url = '/articles'
+  weight = 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
