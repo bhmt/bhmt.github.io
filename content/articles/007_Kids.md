@@ -6,11 +6,11 @@ Internet je pun čuda, ali i rizika.
 Za djecu i tinejdžere digitalni je život utkan u način na koji uče, igraju se i druže.
 Kao roditelj ili skrbnik, vaš posao nije isključiti internet već pomoći djeci da ga istražuju na siguran način.
 
-Shvatite rizike, otvoreno razgovarate o digitalnom ponašanju i stvorite sigurno online okruženje koje pruža podršku vašoj djeci.
+Shvatite rizike, otvoreno razgovarajte o digitalnom ponašanju i stvorite sigurno online okruženje koje pruža podršku vašoj djeci.
 
 ## 👶 Zašto je sigurnost na internetu važna za djecu
 
-Djeca su prirodno znatiželjna, ali im možda nedostaje sposobnost rasuđivanja da prepoznaju opasnosti kao što su:
+Djeca su prirodno znatiželjna, ali im možda nedostaje sposobnost prosuđivanja da prepoznaju opasnosti kao što su:
 
 - Stranci koji se pretvaraju da su prijatelji
 - Neprikladan ili nasilan sadržaj
@@ -36,7 +36,7 @@ Djeca su prirodno znatiželjna, ali im možda nedostaje sposobnost rasuđivanja 
 
 🐣 3-7 godina
 
-- Koristite samo aplikacije koje su odobrili roditelji (bez oglasa ili dopisivanje)
+- Koristite samo aplikacije koje su odobrili roditelji (bez oglasa ili dopisivanja)
 - Nema nenadziranog pristupa internetu
 - Postavite čvrsta ograničenja vremena pred ekranom (npr. 30-60 min/dan)
 
@@ -60,14 +60,14 @@ Djeca su prirodno znatiželjna, ali im možda nedostaje sposobnost rasuđivanja 
 
 Evo nekoliko ključnih razgovora koje treba voditi rano i često:
 
-Što učiniti ako vam netko koga ne poznajete pošalje poruku?  
-Zašto je važno čuvati privatnost svojih osobnih podataka?  
-Znate li kako blokirati ili prijaviti osobe u ovoj aplikaciji?  
-Što trebate učiniti ako na internetu vidite nešto uznemirujuće?  
-Zašto se odmaramo od ekrana?  
+- Što učiniti ako vam netko koga ne poznajete pošalje poruku?  
+- Zašto je važno čuvati privatnost svojih osobnih podataka?  
+- Znate li kako blokirati ili prijaviti osobe u ovoj aplikaciji?  
+- Što trebate učiniti ako na internetu vidite nešto uznemirujuće?  
+- Zašto se odmaramo od ekrana?  
 
 >
-> Izbjegavajte predavanja. Postavljajte otvorena pitanja i slušajte bez prosuđivanja.
+> Izbjegavajte predavanja. Postavljajte otvorena pitanja i slušajte bez osuđivanja.
 >
 
 ## Alati i postavke za korištenje
@@ -81,47 +81,47 @@ Zašto se odmaramo od ekrana?
 | Alati za filtriranje DNS-a | Blokirajte nesigurne web stranice (npr. OpenDNS Family Shield) |
 
 
-## Digitalna sigurna kuća za djecu
+## Digitalna sigurnost počinje kod kuće
 
 Temelj - Komunikacija i povjerenje.  
-Poštovanje - ponašajte se prema drugima ljubazno.  
+Poštovanje - Ponašajte se prema drugima ljubazno.  
 Odgovornost - Razmislite prije dijeljenja.  
-Otpornost: Recite nekome ako nešto nije u redu  
+Otpornost - Recite nekome ako nešto nije u redu.  
 
-## 📘 Primjer iz stvarnog života: Online "prijatelj"
+## 📘 Čest primjer
 
 10-godišnja djevojčica stekla je novog "prijatelja" na dječjoj aplikaciji za igrice.
 Osoba joj je dala kompliment, a zatim je tražila fotografije i razgovor u četiri oka.
 
 Srećom, rekla je starijem bratu, koji je upozorio roditelje.
-Račun je prijavljen—i pokazalo se da se radi o odrasloj osobi koja koristi lažni profil.
+Račun je prijavljen i pokazalo se da se radi o odrasloj osobi koja koristi lažni profil.
 
 >
-> Djeca se trebaju osjećati sigurno kada vam se obraćaju kada im nešto nije u redu.
+> Djeca se trebaju osjećati sigurno kada vam se obraćaju ako nešto nije u redu.
 >
 
 ## 7 zlatnih pravila za roditelje i staratelje
-<p>
+
 **1. Budite prisutni, a ne samo zaštitnički nastrojeni**  
-Igrajte igre, upoznajte se s aplikacijama znajte što vaša djeca doživljavaju
+Igrajte igre, upoznajte se s aplikacijama, znajte što vaša djeca doživljavaju.
 
 **2. Postavite granice zajedno**  
-Zajednički kreirajte pravila za vrijeme korištenja uređaja, vrijeme spavanja i zone bez uređaja
+Zajednički kreirajte pravila za vrijeme korištenja uređaja, vrijeme spavanja i zone bez uređaja.
 
 **3. Koristite alate, a ne strah**  
-Tehnički filtri pomažu, ali povjerenje i smjernice su učinkovitiji
+Tehnički filtri pomažu, ali povjerenje i smjernice su učinkovitiji.
 
 **4. Normalizirajte digitalne pogreške**  
-Neka uče i oporave se, a ne samo skrivaju stvari
+Neka uče i oporave se, a ne samo skrivaju stvari.
 
 **5. Vodite primjerom**  
-Djeca gledaju kako se ponašate s uređajima i društvenim medijima
+Djeca gledaju kako se ponašate s uređajima i društvenim medijima.
 
 **6. Noću držite uređaje izvan spavaćih soba**  
-Bolji san i manje rizika od spavanja u kasnim noćnim satima
+Bolji san i manje rizika od nespavanja do kasnih noćnih sati.
 
 **7. Razgovarajte rano, razgovarajte često**  
-Sigurnost je stalni razgovor, a ne jednokratna lekcija
+Sigurnost je stalni razgovor, a ne jednokratna lekcija.
 
 Ne morate biti tehnički stručnjak da biste odgojili sigurne, pametne digitalne građane. Vi samo trebate biti uključeni, informirani i pristupačni.  
 Dajte svojoj djeci alate i samopouzdanje za navigaciju digitalnim svijetom s ljubaznošću, oprezom i znatiželjom.

@@ -3,10 +3,10 @@ title = '3  Privatnost na internetu'
 +++
 
 
-Svaki klik, lajk i pretraživanje na internetu ostavlja trag.
-Ti sićušni komadići podataka - vaša povijest pregledavanja, lokacija, postavke, pa čak i vaše raspoloženje - neprestano se prikupljaju, prate i analiziraju.  
+Svaki klik, lajk i pretraživanje na internetu ostavljaju trag.
+Ti sićušni komadići podataka - vaša povijest pregledavanja, lokacija, postavke pa čak i vaše raspoloženje - neprestano se prikupljaju, prate i analiziraju.  
 Zašto i od koga?  
-Razumijevanje privatnosti na internetu uključuje znanje o tome kako se vaši podaci koriste, kako se mogu zloupotrijebiti i kako možete vratiti kontrolu nad svojom digitalnom privatnošću.
+Razumijevanje privatnosti na internetu uključuje znanje o tome kako se vaši podatci koriste, kako se mogu zloupotrijebiti i kako možete vratiti kontrolu nad svojom digitalnom privatnošću.
 
 ## 🕵️ Što od podataka se prati?
 
@@ -18,7 +18,7 @@ Kada koristite web stranice, aplikacije ili usluge, one mogu prikupljati:
  - Osobni identifikatori - adresa e-pošte, broj telefona, ID-ovi za prijavu
  - Povijest pretraživanja i kupovine
 
-Ponekad su ti podaci neophodni (npr. prikazivanje vaše lokacije na karti). Ali često se koristi za izradu detaljnih profila za oglašavanje ili čak prodaju trećim stranama.
+Ponekad su ti podatci neophodni (npr. prikazivanje vaše lokacije na karti). Ali često se koriste za izradu detaljnih profila za oglašavanje ili čak prodaju trećim stranama.
 
 ## 🔍 Kako se podatci prate?
 
@@ -29,7 +29,7 @@ Ovo su najčešći alati koje web stranice i aplikacije koriste da vas prate:
 | Kolačići | Sprema male komadiće informacija u vaš preglednik |
 | Pikseli za praćenje | Nevidljive slike koje se bilježe kada učitate stranicu |
 | Fingerprinting | Koristi jedinstvene podatke o vašem uređaju za vašu identifikaciju |
-| Društveni dodaci | Gumbi za lajkanje, dijeljenje koji prate web stranice |
+| Društveni dodaci | Gumb za lajkanje i dijeljenje koji web stranice prate |
 | Skripte treće strane | Oglasi i analitika koji rade u pozadini |
 
 >
@@ -39,12 +39,12 @@ Ovo su najčešći alati koje web stranice i aplikacije koriste da vas prate:
 ## 🔒 Zašto je privatnost bitna?
 
 Čak i ako se osjećate kao da "nemate što skrivati", privatnost je kontrola, a ne tajnovitost.  
-Vaši osobni podaci se mogu:
+Vaši osobni podatci se mogu:
 
- - Koristi se za manipuliranje vama (npr. personalizirane dezinformacije ili oglasi)
+ - Koristiti za manipuliranje vama (npr. personalizirane dezinformacije ili oglasi)
  - Prodati bez vašeg pristanka posrednicima podataka
- - Ukradeni u povredi podataka (krađa identiteta, prijevara)
- - Koristi se za diskriminaciju (npr. oglasi za posao koji se ne prikazuju starijim korisnicima)
+ - Ukrasti u povredi podataka (krađa identiteta, prijevara)
+ - Koristiti za diskriminaciju (npr. oglasi za posao koji se ne prikazuju starijim korisnicima)
 
 >
 > Činjenica: mnoge besplatne aplikacije su samo "besplatne" jer su vaši podaci pravi proizvod.
@@ -52,29 +52,29 @@ Vaši osobni podaci se mogu:
 
 ## 🛡 Kako zaštititi svoju privatnost na internetu
 
-Evo jednostavnih, snažnih koraka za smanjenje praćenja i preuzimanje kontrole nad vašim podacima:
+Evo jednostavnih, snažnih koraka za smanjenje praćenja i preuzimanje kontrole nad vašim podatcima:
 
 ✅ 1. Provjerite dopuštenja aplikacije
 
 Aplikacijama dajte samo onaj pristup koji im je potreban. Onemogući dopuštenja za:
 
-Mikrofon, kamera  
-Mjesto  
-Kontakti  
+- Mikrofon, kamera  
+- Mjesto  
+- Kontakti  
 
 ✅ 2. Koristite alate usmjerene na privatnost
 
-Preglednici: Firefox, Brave ili DuckDuckGo preglednik  
-Pretraživanje: DuckDuckGo  
-Ekstenzije: uBlock Origin, Privacy Badger, ClearURLs  
+- Preglednici: Firefox, Brave ili DuckDuckGo preglednik  
+- Pretraživanje: DuckDuckGo  
+- Ekstenzije: uBlock Origin, Privacy Badger, ClearURLs  
 
 ✅ 3. Pooštrite postavke društvenih medija
 
 Pregledajte postavke privatnosti na platformama kao što su Facebook, Instagram, TikTok:
 
-Ograničite tko može vidjeti vaše objave  
-Isključite prepoznavanje lica i personalizaciju oglasa  
-Uklonite aplikacije koje više ne koristite  
+- Ograničite tko može vidjeti vaše objave  
+- Isključite prepoznavanje lica i personalizaciju oglasa  
+- Uklonite aplikacije koje više ne koristite  
 
 ✅ 4. Izbjegavajte "Prijava s Googleom/Facebookom"
 
@@ -82,22 +82,26 @@ Ovi su gumbi praktični — ali povezuju vašu aktivnost na više web stranica.
 
 ✅ 5. Izbrišite stare račune
 
-Ne koristite forum kojem ste se pridružili 2018.? Izbriši račun. Manje podataka na mreži = manji rizik.
+Koristite li forum kojem ste se pridružili 2018.? Izbrišite račun. Manje podataka na mreži = manji rizik.
+
+#### Korisne usluge
+
+Ukoliko neku stranicu ne planirate posjetiti više od jednog puta, ne morate koristiti privatnu e-poštu.  
+Koristite usluge privremene e-pošte kao što je [10minutemail](https://10minutemail.com/).
 
 ## 🔦 Primjer iz stvarnog života: prekomjerno dijeljenje krenulo po krivu
 
 Popularna fitness aplikacija pratila je rute trčanja korisnika. Ali kada je objavljeno na javnoj toplinskoj karti, otkrilo je:
 
-Tajne vojne baze  
-Osobne rutine vojnika  
-Staze za trčanje unutar privatnih kompleksa  
+- Tajne vojne baze  
+- Osobne rutine vojnika  
+- Staze za trčanje unutar privatnih kompleksa  
 
 >
-> Lekcija: čak i "anonimni" podaci mogu otkriti više nego što očekujete.
+> Lekcija: čak i "anonimni" podatci mogu otkriti više nego što očekujete.
 >
 
 ## Kako se podatci kreću online
-
 
 <div>
     <link rel="stylesheet" href="/flow.css">
@@ -111,4 +115,4 @@ Staze za trčanje unutar privatnih kompleksa
 </div>
 
 Privatnost je digitalno pravo, a ne luksuz. Svaki korak koji poduzmete da biste ga razumjeli i zaštitili daje vam više slobode, sigurnosti i snage na mreži.  
-Počnite sa svjesnošću. Zatim, poduzmite akciju.
+Počnite sa svjesnošću, a zatim poduzmite akciju.

@@ -13,10 +13,10 @@ Kako vaše radnje na mreži oblikuju vašu reputaciju, koji rizici postoje i kak
 Vaš digitalni otisak je trag podataka koji ostavljate za sobom svaki put kada koristite internet. Može biti:
 
 Aktivni: stvari koje namjerno dijelite (objave, lajkovi, poruke)  
-Pasivni: podaci prikupljeni o vama bez vašeg izravnog unosa (kolačići, lokacija, ponašanje pregledavanja)  
+Pasivni: podatci prikupljeni o vama bez vašeg izravnog unosa (kolačići, lokacija, ponašanje kod pregledavanja)  
 
 >
-> Sve što radite online stvara vašu verziju—vidljivu prijateljima, poslodavcima, oglašivačima i strancima.
+> Sve što radite online stvara vašu verziju vidljivu prijateljima, poslodavcima, oglašivačima i strancima.
 >
 
 ## 🧠 Zašto je vaš digitalni otisak važan
@@ -43,7 +43,7 @@ Upišite svoje ime u Google. Što se pojavljuje?
 
 ## Izgradnja pozitivne online reputacije
 
-Imati digitalni otisak nije loše. Zapravo, pozitivno može otvoriti vrata.
+Imati digitalni otisak nije loše. Ako se koristi pažljivo, vaš digitalni otisak može otvoriti mnoga vrata.
 
 ✅ 1. Koristite svoje pravo ime (strateški)
 
@@ -58,7 +58,7 @@ Imati digitalni otisak nije loše. Zapravo, pozitivno može otvoriti vrata.
 
 ✅ 3. Doprinesite zajednicama
 
-- Pomozite drugima na forumima, projektima otvorenog koda ili nišnim grupama
+- Pomozite drugima na forumima, projektima otvorenog koda ili ciljanim grupama
 - Podijelite znanje ili postavite promišljena pitanja
 
 ✅ 4. Kontrolirajte ono što dijelite
@@ -69,18 +69,17 @@ Imati digitalni otisak nije loše. Zapravo, pozitivno može otvoriti vrata.
 ## ❌ Čišćenje vašeg digitalnog traga
 
 Možete minimizirati svoj stari otisak.  
-🧹 Čišćenje korak po korak
 
-Izbrišite ili deaktivirajte račune koji se ne koriste  
-Odjavite se s neprikladnih ili zastarjelih fotografija  
-Uklonite stare komentare ili postove s foruma, Reddita itd.  
-Zatražite uklanjanje sadržaja s web stranica ako je moguće  
-Upotrijebite Googleov alat za uklanjanje za uklanjanje zastarjelog ili štetnog sadržaja  
+Čišćenje korak po korak:  
+🧹 Izbrišite ili deaktivirajte račune koji se ne koriste  
+🧹 Odjavite se s neprikladnih ili zastarjelih fotografija  
+🧹 Uklonite stare komentare ili postove s foruma, Reddita itd.  
+🧹 Zatražite uklanjanje sadržaja s web stranica ako je moguće  
+🧹 Upotrijebite Googleov alat za uklanjanje zastarjelog ili štetnog sadržaja  
 
 >
 > Zapamtite: čak i izbrisani sadržaj može živjeti u snimkama zaslona, arhivama ili sigurnosnim kopijama.
 >
-
 
 ## 🧰 Alati za reviziju i upravljanje vašim digitalnim otiskom
 
@@ -90,7 +89,7 @@ Upotrijebite Googleov alat za uklanjanje za uklanjanje zastarjelog ili štetnog 
 | Have I Been Pwned | Provjerite je li vaša e-pošta bila dio povrede podataka |
 | Wayback Machine | Pogledajte arhivirane verzije web stranica |
 
-## 📷 Primjer iz stvarnog života: Stari tweet koji je koštao posla
+## 📷 Primjer iz stvarnog života
 
 Mlada znanstvenica je možda izgubila svoje stažiranje u NASA-i nakon vulgarne Twitter razmjene s članom Nacionalnog vijeća za svemir.  
 <a href="https://people.com/human-interest/woman-loses-nasa-internship-over-tweet/">https://people.com/human-interest/woman-loses-nasa-internship-over-tweet/</a>
@@ -115,6 +114,6 @@ Mlada znanstvenica je možda izgubila svoje stažiranje u NASA-i nakon vulgarne 
 
 Internet pamti - ali to ne znači da ste nemoćni.
 
-Određivanjem onoga što dijelite, čišćenjem gdje je to moguće i aktivnim stvaranjem pozitivnog sadržaja, možete oblikovati digitalni identitet koji odražava ono što doista jeste.
+Određivanjem onoga što dijelite, čišćenjem gdje je to moguće i aktivnim stvaranjem pozitivnog sadržaja možete oblikovati digitalni identitet koji odražava ono što doista jeste.
 
 Vaš digitalni otisak vaša je druga sjena - pazite da hoda uz vas, a ne iza vas.
