@@ -121,7 +121,7 @@ Ne preuzimajte.
 
 Provjerite putem uobičajenih, odnosno službenih kanala.
 
-## Kako se zaštititi
+## Kako se zaštititi?
 
 Koristite 2FA. Često samo lozinka nije dovoljna.  
 Redovno ažurirajte svoj softver. Starije verzije softvera često sadrže nesigurnosti ili greške koje se mogu iskoristiti na štetan način.  

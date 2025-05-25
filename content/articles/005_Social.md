@@ -20,7 +20,7 @@ Društvene mreže osmišljene su tako da zadrže vašu pozornost što je duže m
 > Platforme profitiraju kada provodite vrijeme skrolajući, a ne kada se osjećate dobro.
 >
 
-## Koji su rizici?
+## Koji su rizici
 
 | **Rizik** | **Primjer** |
 | :-: | :-: |

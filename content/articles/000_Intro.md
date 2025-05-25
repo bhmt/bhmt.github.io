@@ -7,13 +7,14 @@ Digitalna pismenost je u današnje doba postala neophodno znanje.
 Sve više aktivnosti obavljamo preko interneta, od komunikacije do bankarstva.
 Zato je sve potrebnije biti dobro upoznat i sa sigurnosti na internetu.
 
-## Što je digitalna pismenost
+## Što je digitalna pismenost?
+
 Digitalna pismenost je sposobnost pronalaženja, razumijevanja, evaluacije, stvaranja i komuniciranja informacija s pomoću digitalnih tehnologija.
 Ali to je više od znanja kako koristiti pametni telefon ili se prijaviti na web stranice.
 
 Biti digitalno pismen između ostalog znači i:
 
- - prepoznati prevare ili lažne vijesti
+ - prepoznati prijevare ili lažne vijesti
  - razumjeti kako se prikupljaju i koriste podatci
  - čuvati svoje korisničke račune sigurnim
  - kritički razmišljati o stvarima koje se vide, pročitaju, i dijele
@@ -21,12 +22,12 @@ Biti digitalno pismen između ostalog znači i:
 O digitalnoj pismenosti može se razmišljati kao i o vožnji automobila.
 Nije dovoljno znati upravljati automobilom - potrebno je znati i čitati prometne znakove te izbjegavati nezgode.
 
-## Zašto je digitalna pismenost bitna
+## Zašto je digitalna pismenost bitna?
 
 ### Ostanite sigurni
 
-Potrebno je prepoznati prevare kao lažnu e-poštu (phishing), kao i naučiti izbjegavati lažne, štetne, ili zlonamjerne aplikacije i web stranice.
-To nas štiti od prevare ili krađe identiteta.
+Potrebno je prepoznati prijevare kao lažnu e-poštu (phishing), kao i naučiti izbjegavati lažne, štetne, ili zlonamjerne aplikacije i web stranice.
+To nas štiti od financijske prijevare ili krađe identiteta.
 
 ### Zaštitite svoju privatnost
 

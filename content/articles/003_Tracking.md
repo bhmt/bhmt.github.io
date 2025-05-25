@@ -89,7 +89,7 @@ Koristite li forum kojem ste se pridružili 2018.? Izbrišite račun. Manje poda
 Ukoliko neku stranicu ne planirate posjetiti više od jednog puta, ne morate koristiti privatnu e-poštu.  
 Koristite usluge privremene e-pošte kao što je [10minutemail](https://10minutemail.com/).
 
-## 🔦 Primjer iz stvarnog života: prekomjerno dijeljenje krenulo po krivu
+## 🔦 Primjer prekomjernog dijeljenja
 
 Popularna fitness aplikacija pratila je rute trčanja korisnika. Ali kada je objavljeno na javnoj toplinskoj karti, otkrilo je:
 
