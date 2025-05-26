@@ -102,7 +102,7 @@ Mlada znanstvenica je možda izgubila svoje stažiranje u NASA-i nakon vulgarne 
 ## Vaš tok digitalnog otiska
 
 <div>
-    <link rel="stylesheet" href="/flow.css">
+    <link rel="stylesheet" href="/css/flow.css">
     <div class="tdiv">
         <p class='tp'>Postovi i lajkovi
         <p class='tp'>Rezultati pretraživanja

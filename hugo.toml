@@ -18,6 +18,10 @@ theme = 'digitalgarden'
   name = 'Digitalna pismenost'
   url = '/articles'
   weight = 2
+[[menu.main]]
+  name = 'Zanimljivosti'
+  url = '/portfolio'
+  weight = 3
 
 [caches]
   [caches.images]

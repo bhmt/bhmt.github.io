@@ -104,7 +104,7 @@ Popularna fitness aplikacija pratila je rute trčanja korisnika. Ali kada je obj
 ## Kako se podatci kreću online
 
 <div>
-    <link rel="stylesheet" href="/flow.css">
+    <link rel="stylesheet" href="/css/flow.css">
     <div class="tdiv">
         <p class='tp'>Vaši podatci</p>
         <p class='tp'>Web stranica ili aplikacija</p>
