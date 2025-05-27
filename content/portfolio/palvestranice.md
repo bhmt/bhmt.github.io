@@ -5,7 +5,7 @@ description: Curenje podataka o korisnicima Facebooka
 
 U travnju 2021. Facebook je doživio curenje podataka.
 
-Cyberkriminalci su pristupili osobnim podacima više od pola milijuna korisnika Facebooka i objavili ih na hakerskom forumu. Iako se često naziva jednim od najvećih kibernetičkih napada 2021., prvotni napad zapravo se dogodio 2019., ali se ponovno pojavio dvije godine kasnije, proganjajući dioničare i korisnike Facebooka.
+Cyberkriminalci su pristupili osobnim podatcima više od pola milijuna korisnika Facebooka i objavili ih na hakerskom forumu. Iako se često naziva jednim od najvećih kibernetičkih napada 2021., prvotni napad zapravo se dogodio 2019., ali se ponovno pojavio dvije godine kasnije, proganjajući dioničare i korisnike Facebooka.
 
 ## Koji podatci su postali javni?
 
