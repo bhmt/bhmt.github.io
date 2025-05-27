@@ -1,5 +1,7 @@
 ---
 title: Plave stranice
+images:
+- /images/leak.jpg
 description: Curenje podataka o korisnicima Facebooka
 ---
 
