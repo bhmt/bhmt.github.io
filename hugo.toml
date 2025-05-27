@@ -2,6 +2,8 @@ baseURL = ''
 title = 'pismenost.online'
 theme = 'digitalgarden'
 
+googleAnalytics = 'G-Z5K3R6V0VN'
+
 [Params]
   description = "Digitalan pismenost i sigurnost na internet"
 
