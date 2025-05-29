@@ -12,3 +12,10 @@ U sprječavanju istih potrebno je slijediti neke od temeljnih pravila za sigurno
 
 
 → [Krenite s upoznavanjem sigurnosti na internetu](/articles)
+
+
+Često je sigurnost tema onda kad je već kasno.  
+Iako se većinom ne može utjecati na sigurnost tehnologija koje koristimo, možemo pripaziti da se ne dijele podatci koje nije nužno dijeliti.
+Prekomjerno dijeljenje informacija postane teret kad privatni podatci postanu otvoreni i dostupni svijetu.
+
+→ [Neke od zanimljivijih slučajeva pogledajte tu](/portfolio)
